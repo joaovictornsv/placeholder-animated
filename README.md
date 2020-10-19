@@ -1,7 +1,7 @@
 
 <!-- Top Image and Title -->
 <div  align="center">
-	<img  src="./placeholder-animated-gif.gif"  width="250px">
+	<img  src="./placeholder-animated-gif.gif"  width="550px">
 	<h1>Placeholder animated</h1>
 	<!-- Subtitle/Description -->
 	<h4>Input placeholder animation like a Gmail Login <img src="https://devicon.dev/devicon.git/icons/google/google-original.svg" height="12"></h4>
@@ -9,10 +9,10 @@
 
 <!-- Image Shields -->
 <div  align="center">
-	<img  alt="Language Top"  src="https://img.shields.io/github/languages/top/joaovictornsv/placeholder-animated-css">
-	<img  alt="Languages Count"  src="https://img.shields.io/github/languages/count/joaovictornsv/placeholder-animated-css">
-	<img  alt="Last Commit"  src="https://img.shields.io/github/last-commit/joaovictornsv/placeholder-animated-css">
-	<img  alt="Repo Size"  src="https://img.shields.io/github/repo-size/joaovictornsv/placeholder-animated-css">
+	<img  alt="Language Top"  src="https://img.shields.io/github/languages/top/joaovictornsv/placeholder-animated">
+	<img  alt="Languages Count"  src="https://img.shields.io/github/languages/count/joaovictornsv/placeholder-animated">
+	<img  alt="Last Commit"  src="https://img.shields.io/github/last-commit/joaovictornsv/placeholder-animated">
+	<img  alt="Repo Size"  src="https://img.shields.io/github/repo-size/joaovictornsv/placeholder-animated">
 
 </div>
 
