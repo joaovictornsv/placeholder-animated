@@ -33,4 +33,4 @@
 
 ### :memo: License
 
-- :balance_scale: MIT License - [About](https://github.com/joaovictornsv/placeholder-animated-css/blob/master/LICENSE)
+- :balance_scale: MIT License - [About](https://github.com/joaovictornsv/placeholder-animated/blob/master/LICENSE)
