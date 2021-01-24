@@ -4,7 +4,7 @@
 	<img  src="./placeholder-animated-gif.gif"  width="550px">
 	<h1>Placeholder animated</h1>
 	<!-- Subtitle/Description -->
-	<h4>Input placeholder animation like a Gmail Login <img src="https://devicon.dev/devicon.git/icons/google/google-original.svg" height="12"></h4>
+	<h4>Input placeholder animation like a Gmail Login</h4>
 </div>
 
 <!-- Image Shields -->
